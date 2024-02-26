@@ -4,7 +4,7 @@
   Olá, meu nome é Maiara e estou no primeiro semestre da graduação de Redes de Computadores na Universidade Estacio de Sá. <br>
 </p>
 <p align="left">
-  No moment estou estudando na Alura a parte front-end para começar minha trajetória na programação e um dia quero me tornar uma <strong>Dev Full-Stack</strong>.
+  No moment estou estudando na Alura o básico para começar minha trajetória na programação e um dia quero me tornar uma <strong>Dev Full-Stack</strong>.
 </p>
 
 <p align="left">
