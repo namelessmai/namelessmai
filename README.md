@@ -8,7 +8,7 @@
   No moment estou estudando na Alura o básico para começar minha trajetória na programação e um dia quero me tornar uma <strong>Dev Full-Stack</strong>.
 </p>
 
-<img src="https://media.discordapp.net/attachments/1206012871251853315/1211732472849498122/octocat-1708712137522.png?ex=65ef44ce&is=65dccfce&hm=6a772de719e23382245c314f2f317bf14dfa8e805829fd71cb61f65358b01099&=&format=webp&quality=lossless&width=662&height=662" alt="ilustração otocat com um computador" min-width="500px" max-width="420px" width="420px" align="right">
+<img src="https://media.discordapp.net/attachments/1206012871251853315/1211732472849498122/octocat-1708712137522.png?ex=661d694e&is=660af44e&hm=a8c728469754af6327367ccb2d5de96267f26ad03a6670cd669f6beea30b1d3f&=&format=webp&quality=lossless&width=662&height=662" alt="ilustração octocat com um computador" min-width="500px" max-width="420px" width="420px" align="right">
 
 <p align="left">
   🎓 Estou aprendendo: <br>
