@@ -5,10 +5,10 @@
 </p>
 
 <p align="left">
-  No moment estou estudando na Alura o básico para começar minha trajetória na programação e um dia quero me tornar uma <strong>Dev Full-Stack</strong>.
+  No moment estou estudando na Alura o básico para começar minha trajetória na programação e um dia quero me tornar uma <strong>Dev Front-end</strong>.
 </p>
 
-<img src="https://media.discordapp.net/attachments/1206012871251853315/1211732472849498122/octocat-1708712137522.png?ex=661d694e&is=660af44e&hm=a8c728469754af6327367ccb2d5de96267f26ad03a6670cd669f6beea30b1d3f&=&format=webp&quality=lossless&width=662&height=662" alt="ilustração octocat com um computador" min-width="500px" max-width="420px" width="420px" align="right">
+<img src="https://cdn.discordapp.com/attachments/1206012871251853315/1233489144320098446/HiPaint_1714157036900.png?ex=662d47c9&is=662bf649&hm=b00033a6b1a7dec990a48c5fa4090217cf69414a9792eef419a5adb4fc187358&" alt="imagem de uma personagem" width="250px" align="right">
 
 <p align="left">
   🎓 Estou aprendendo: <br>
