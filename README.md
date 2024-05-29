@@ -8,8 +8,6 @@
   No moment estou estudando na Alura o básico para começar minha trajetória na programação e um dia quero me tornar uma <strong>Dev Front-end</strong>.
 </p>
 
-<img src="https://cdn.discordapp.com/attachments/1206012871251853315/1233489144320098446/HiPaint_1714157036900.png?ex=662d47c9&is=662bf649&hm=b00033a6b1a7dec990a48c5fa4090217cf69414a9792eef419a5adb4fc187358&" alt="imagem de uma personagem" width="200px" align="right" >
-
 <p align="left">
   🎓 Estou aprendendo: <br>
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML5"/> 
